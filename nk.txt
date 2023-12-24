@@ -1,3 +1,5 @@
 my name is nikhil kumar 
 hello world
 c programming
+hello
+yes no
